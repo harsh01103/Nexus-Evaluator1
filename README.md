@@ -1,4 +1,4 @@
-# NEXUS EVALUATOR
+# Nexus Evaluator
 
 Nexus Evaluator is an automated assignment evaluation system designed to streamline the grading workflow for teachers and provide faster feedback for students.
 
