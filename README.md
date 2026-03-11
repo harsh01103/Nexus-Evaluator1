@@ -45,8 +45,7 @@ The evaluation pipeline works as follows:
 1. Clone the repository
 
 ```bash
-git clone [https://github.com/Govind-Sankar/nexus-evaluator.git](https://github.com/Govind-Sankar/Nexus-Evaluator.git)
-
+git clone https://github.com/Govind-Sankar/nexus-evaluator.git
 cd nexus-evaluator
 ```
 
